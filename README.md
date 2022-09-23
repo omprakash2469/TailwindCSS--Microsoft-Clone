@@ -8,7 +8,7 @@ This is a Microsoft Clone developed using HTML and Tailwind CSS
 
 ## Useful Links
 
- - Microsoft Clone - [View Demo](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - Microsoft Clone - [View Demo](https://demomicrosoftclone.netlify.app/)
 
 
 ## Customize Template
